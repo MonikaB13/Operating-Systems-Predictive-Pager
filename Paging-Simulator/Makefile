@@ -1,4 +1,4 @@
-# CS3753 - PA3
+
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
