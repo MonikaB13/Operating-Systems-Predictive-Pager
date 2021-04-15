@@ -10,7 +10,7 @@ Clean:
 	make clean
 
 Run:
-	./file-name
+	./filename
 
 
 
